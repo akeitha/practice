@@ -1,0 +1,112 @@
+header {
+  position: absolute; 
+  width: 1440px;
+  height: 747px;
+  left: 0px;
+  top: 0px;
+  background: #F9F6F5;
+}
+.head {
+position: absolute;
+width: 128px;
+height: 30px;
+left: 100px;
+top: 40px;
+font-family: Red Hat Display;
+font-size: 24px;
+font-style: italic;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
+
+font-family: Red Hat Display;
+font-style: italic;
+font-weight: bold;
+font-size: 24px;
+line-height: 30px;
+/* identical to box height, or 125% */
+
+text-decoration-line: underline;
+
+color: #222222
+}
+
+#kek{
+  position: absolute;
+  width: 796px;
+  height: 609px;
+  left: 644px;
+  top: 138px;
+}
+
+#Home{
+  position: absolute;
+  width: 44px;
+  height: 20px;
+  left: 532px;
+  top: 45px;
+  
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  
+  /* identical to box height, or 125% */
+  
+  
+  color: #222222;
+}
+#Products{
+  position: absolute;
+  width: 65px;
+  height: 20px;
+  left: 616px;
+  top: 45px;
+  
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+  
+  
+  color: #222222;
+}
+#Aboutus{
+  position: absolute;
+  width: 67px;
+  height: 20px;
+  left: 721px;
+  top: 45px;
+  
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+  
+  
+  color: #222222;
+}
+#Contactus{
+  position: absolute;
+  width: 80px;
+  height: 20px;
+  left: 828px;
+  top: 45px;
+  
+  font-family: Red Hat Display;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+  
+  
+  color: #222222;
+}
